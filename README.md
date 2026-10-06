@@ -74,4 +74,4 @@ O indicador de **58,9 bilhões de operações de pagamento realizadas pelo celul
 
 ## 👩‍💻 Autora
 
-Jessica Jesus Cardoso
+Jéssica Jesus Cardoso
